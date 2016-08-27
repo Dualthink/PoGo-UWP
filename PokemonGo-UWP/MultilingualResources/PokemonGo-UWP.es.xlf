@@ -12,7 +12,7 @@
         </trans-unit>
         <trans-unit id="BadgeBattleTrainingWon" translate="yes" xml:space="preserve">
           <source>Ace Trainer</source>
-          <target state="final">Chico entrendory</target>
+          <target state="final">Chico entrendor</target>
         </trans-unit>
         <trans-unit id="BadgeBigMagikarp" translate="yes" xml:space="preserve">
           <source>Fisherman</source>
